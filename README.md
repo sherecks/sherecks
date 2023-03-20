@@ -17,6 +17,6 @@
 - Hard Skills:  Html5, Css3, Sass, Git, GitKraken, Flask, Python, JavaScript and MongoDB.  
 - Soft Skills:  Pleasure to learn, Comunication, Proactivity, Video project management.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherecks)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherecks&show_icons=true&bg_color=00000000)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sherecks&bg_color=d1ebff&color=000000&line=4b16c5&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
