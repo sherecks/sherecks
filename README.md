@@ -9,7 +9,7 @@
 - Produção de Vídeos:
 - I work with editions and capturing images for companies
 - such as SC Par Porto de Imbituba and São Francisco do Sul and Aquaplan.
-- 3 years of video editing experience, Adobe Premiere
+- 4 years of video editing experience, Adobe Premiere and Wondershare Filmora 12.
 - certified and 3 years of Wondershare Filmora experience.
 - 
 - 
