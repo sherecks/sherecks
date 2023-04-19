@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m João Pedro Patrício do Nascimento, Videomaker, Dev Front-end and Study Computational Science in UDESC Joinville.
 - 👀 I’m interested in Front-End and learn new techniques to develop in these two areas of work.
-- 🌱 I’m currently learning Python, Flask, JavaScript, MongoDB and a lot of Libraries.
+- 🌱 I’m currently learning React, Python, Three.JS, JavaScript, Bootstrap, SCSS.
 - 📫 How to reach me https://www.joaopedropn.com.br/
 - 
 - 
