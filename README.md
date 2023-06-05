@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m João Pedro Patrício do Nascimento, Videomaker, Dev Front-end and Study Computational Science in UDESC Joinville.
 - 👀 I’m interested in Front-End and learn new techniques to develop in these two areas of work.
-- 🌱 I’m currently learning React, Python, Three.JS, JavaScript, Bootstrap, SCSS.
+- 🌱 I’m currently learning React, Angular, TypeScript, Python, Three.JS, JavaScript, TailWind, SCSS.
 - 📫 How to reach me https://www.joaopedropn.com.br/
 - 
 - 
@@ -14,7 +14,7 @@
 - 
 - 
 - Desenvolvimento Web:
-- Hard Skills:  Html5, Css3, Sass, Git, GitKraken, Flask, Python, JavaScript and MongoDB.  
+- Hard Skills:  Html5, Css3, Sass, TailWind, Git, GitKraken, React, Angular, Python, TypeScript, JavaScript.  
 - Soft Skills:  Pleasure to learn, Comunication, Proactivity, Video project management.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherecks&show_icons=true&bg_color=00000000)
