@@ -15,8 +15,10 @@
 - 
 - Desenvolvimento Web:
 - Hard Skills:  Html5, Css3, Sass, TailWind, Git, GitKraken, React, Angular, Python, TypeScript, JavaScript.  
-- Soft Skills:  Pleasure to learn, Comunication, Proactivity, Video project management.  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherecks&theme=blue-green&show_icons=true)
-
+- Soft Skills:  Pleasure to learn, Comunication, Proactivity, Video project management.
+- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherecks&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherecks&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sherecks&theme=blue_green&utcOffset=8)
