@@ -19,4 +19,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherecks&theme=blue-green&show_icons=true)
 
-https://api.githubtrends.io/user/svg/sherecks/repos?time_range=one_year&theme=ferns
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherecks&theme=blue_green)
