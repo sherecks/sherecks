@@ -19,4 +19,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherecks&theme=blue-green&show_icons=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sherecks&theme=radical)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sherecks&theme=radical)](https://api.githubtrends.io/user/svg/sherecks/repos?time_range=one_year&theme=ferns)https://api.githubtrends.io/user/svg/sherecks/repos?time_range=one_year&theme=ferns
