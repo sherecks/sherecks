@@ -6,7 +6,7 @@
 - 📫 How to reach me https://www.joaopedropn.com.br/
   
 - Desenvolvimento Web:
-- Hard Skills:  Html5, Css3, Sass, TailWind, Git, GitKraken, React, Angular, Python, TypeScript, JavaScript.  
+- Hard Skills:  Html5, Css3, Sass, Git, React, Python, JavaScript, Notion, OpenRouter, Make.  
 - Soft Skills:  Pleasure to learn, Comunication, Proactivity, Video project management.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherecks&theme=blue_green)
